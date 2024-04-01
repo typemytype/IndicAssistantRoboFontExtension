@@ -1,6 +1,6 @@
 # Indic Assistent
 
-## Anchor could
+## Anchor cloud
 
 Previews the first or selected anchor with the `<anchorName>`  `_<anchorName>` notation.
 
