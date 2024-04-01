@@ -3,7 +3,7 @@ developer: Frederik Berlaen
 developerURL: http://github.com/typemytype/indexAssistantRoboFontExtension
 launchAtStartUp: true
 mainScript: main.py
-version: 0.1
+version: "0.1"
 addToMenu: []
 html: true
 timeStamp: 1638366053.720922
